@@ -1,1 +1,1 @@
-# -Math-Concepts-For-Developers-February-2023
+# Math-Concepts-For-Developers-February
